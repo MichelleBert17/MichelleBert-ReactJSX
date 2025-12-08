@@ -17,7 +17,7 @@ const SocialLinks = () => {
 
       {/* GitHub */}
       <a
-        href="https://github.com/MichelleBert17"
+        href="https://github.com/MichelleBert17/MichelleBert-ReactJSX"
         target="_blank"
         rel="noopener noreferrer"
         title="Visit my GitHub Repository"
@@ -28,11 +28,10 @@ const SocialLinks = () => {
         <p>
           You can view my deployed React project here:{" "}
           <a
-            href="https://YOUR-NETLIFY-URL-HERE.netlify.app"
+            href="https://https://december8.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            https://YOUR-NETLIFY-URL-HERE.netlify.app
           </a>
         </p>
       </Section></>

@@ -1,17 +1,18 @@
 import React from "react";
-import mePic from "../images/me pic.jpg"; 
+import mePic from "../images/me-pic.jpg"; // make sure file name has no spaces
 
 const AboutMe = () => {
   return (
     <div className="about-me">
       <h2>About Me</h2>
 
-      <img 
-        src={mePic} 
-        alt="Michelle Berthiaume" 
+      <img
+        src={mePic}
+        alt="Michelle Berthiaume"
         className="about-me-image"
         style={{ width: "200px", borderRadius: "10px", marginBottom: "1rem" }}
       />
+
 
       <p>
         Hello! I'm Michelle! I think I am in the third trimester, but I'm not entirely
